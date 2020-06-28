@@ -1,0 +1,21 @@
+{
+    "name": "mabaoq123456/mytest",
+    "description": "mytest",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mbq",
+            "email": "329673018@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.1"
+    },
+    "autoload":{
+        "psr-4":{
+            "Test\\Lib\\":"src/Test/Lib"
+        }
+    }
+}
