@@ -9,6 +9,6 @@ namespace Abc;
 class Me{
     public static function haha()
     {
-        return 'haha hello';
+        return 'haha hello 1.0.2';
     }
 }
